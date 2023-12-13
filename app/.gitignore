@@ -1,5 +1,5 @@
 /build
-.idea/
+.idea
 .gradle/
 /app/build/
 /app/.cxx/
